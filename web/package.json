@@ -1,0 +1,10 @@
+{
+  "name": "tsvetkovi-home-server",
+  "version": "0.0.1",
+  "description": "Home server for collecting data",
+  "author": "Angel Tsvetkov",
+  "dependencies": {
+    "restify": "*",
+    "request": "*"
+  }
+}
