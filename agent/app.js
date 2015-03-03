@@ -8,7 +8,7 @@ var restify = require('restify'),
 
 //Rest Server 
 var server = restify.createServer({
-    name: "myapp"
+    name: "home-internet"
 });
 
 server.use(restify.queryParser());
