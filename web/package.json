@@ -5,6 +5,7 @@
   "author": "Angel Tsvetkov",
   "dependencies": {
     "restify": "*",
-    "request": "*"
+    "request": "*",
+    "python-shell": "*"
   }
 }
